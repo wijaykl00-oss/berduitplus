@@ -1,0 +1,6 @@
+{
+  "name": "Kebijakan Privasi — Berduit Plus",
+  "description": "Kebijakan Privasi resmi dan panduan penghapusan akun & data permanen (Google Play Policy Compliance) untuk aplikasi pencatatan keuangan pribadi Berduit Plus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
